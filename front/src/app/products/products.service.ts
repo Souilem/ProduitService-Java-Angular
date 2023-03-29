@@ -91,7 +91,7 @@ export class ProductsService {
 	}
 
 
-	// un autre facon de supprimer un produit rapidement
+	// une autre facon de supprimer un produit rapidement
 	  /*  delete(id: number){
 	    return this.http.delete("http://localhost:8085/products/"+id);
 	  }
