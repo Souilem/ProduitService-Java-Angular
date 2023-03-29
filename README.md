@@ -1,5 +1,5 @@
 # ALTEN SHOP PRODUCTS
-# Back Spring -----
+# -- Back Spring --
 
 # Installation
 
@@ -22,7 +22,7 @@ vous pouvez tester le fonctionnement via l'url suivante: http://localhost:8085/s
 
 
 
-# Front Angular -----
+# -- Front Angular --
 
 # Installation 
 
