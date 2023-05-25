@@ -1,4 +1,4 @@
-# ALTEN SHOP PRODUCTS
+# SHOP PRODUCTS
 # -- Back Spring --
 
 # Installation
