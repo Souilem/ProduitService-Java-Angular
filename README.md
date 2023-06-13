@@ -1,6 +1,7 @@
 # SHOP PRODUCTS
-# -- Back Spring --
 
+
+# -- Spring --
 # Installation
 
 Java 17/Spring-boot V3.0.5/MYSQL8
@@ -17,13 +18,11 @@ http://localhost:8085/
 - Service de mise à jour d'un produit: http://localhost:8085/products/id
 - Service de suppression d'un produit: http://localhost:8085/products/id
 
-
 test du fonctionnement via l'url suivante: http://localhost:8085/swagger-ui/index.html#/
 
 
 
-# -- Front Angular --
-
+# -- Angular --
 # Installation 
 
 - npm intall
