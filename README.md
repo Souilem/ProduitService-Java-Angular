@@ -18,7 +18,7 @@ http://localhost:8085/
 - Service de suppression d'un produit: http://localhost:8085/products/id
 
 
-vous pouvez tester le fonctionnement via l'url suivante: http://localhost:8085/swagger-ui/index.html#/
+test du fonctionnement via l'url suivante: http://localhost:8085/swagger-ui/index.html#/
 
 
 
